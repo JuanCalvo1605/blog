@@ -7,4 +7,5 @@ Redme del curso de git, la mayoria de esta curso fue de git y poco de html y css
 
 *Creado por mi
 *Incluye ejemplos en windows namas
+*verlo yaaa
 
